@@ -38,4 +38,15 @@
   Non-hepatocytic cells (such as Liver Sinusoidal Endothelial Cells, Kupffer cells, and immune cells like T cells and B cells).
 * **d. Is the expression pattern broad or cell-type restricted?** 
   Cell-type restricted, as expression is heavily concentrated within the hepatocyte compartment rather than distributed broadly across all liver   cell.
+
+## Marker Genes
+* **a. Cluster/cell type examined:** Pericentral Hepatocyte
+* **b. Marker gene 1:** CYP3A4
+* **c. Marker gene 2:** CYP2E1
+* **d. Marker gene 3:** ADH4
+* **e. Does your assigned gene behave like a cell-type marker in this dataset? Explain briefly:** 
+  No. Cell-type markers (such as CYP3A4 for pericentral zonation) are highly restricted to define specific metabolic states or cellular identities. In contrast, LDLR is a functional receptor gene expressed broadly across multiple hepatocyte sub-populations because its role is to carry out a systemic physiological function (clearing cholesterol from the bloodstream) rather than serving as an identity label for a single unique cell cluster.
+
+
+
   
