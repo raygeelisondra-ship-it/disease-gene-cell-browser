@@ -47,7 +47,7 @@
 * **e. Does your assigned gene behave like a cell-type marker in this dataset? Explain briefly:** 
   No. Cell-type markers are highly restricted to define specific metabolic states or cellular identities. In contrast, LDLR is a functional receptor gene expressed broadly across multiple hepatocyte sub-populations because its role is to carry out a systemic physiological function (clearing cholesterol from the bloodstream) rather than serving as an identity label for a single unique cell cluster.
 
-## PART H. Compare Your Assigned Gene With One Marker Gene
+## Compare Your Assigned Gene With One Marker Gene
 * **a. Assigned disease gene:** LDLR
 * **b. Marker gene:** CYP3A4
 * **c. Which gene shows a more cell-type-restricted expression pattern?** 
@@ -58,7 +58,7 @@
   It shows that cell-type or zone-specific markers often exhibit tightly confined expression profiles reflecting specialized metabolic states or distinct cellular identities. In contrast, disease-associated functional genes like LDLR can be active across broader cell compartments (the entire functional hepatocyte pool) to maintain core systemic homeostasis, meaning their disease pathology arises from functional disruption rather than unique cell-type restriction.
   
 
-## PART I. Connect the Cell Browser Result to Your Previous Genome Activity
+## Connect the Cell Browser Result to Your Previous Genome Activity
 * **1. On which chromosome is your assigned gene located?** 
   Chromosome 19 (specifically band 19p13.2).
 * **2. What disease-associated variant did you examine previously?** 
@@ -71,7 +71,7 @@
   No, a single single-cell RNA sequencing dataset cannot prove causality on its own. While it demonstrates  where and to what extent* the gene is transcribed in healthy liver cells, proving disease causation requires combining genomic sequencing (identifying inherited variants), clinical association data (like ClinVar), and functional assays to show how specific mutations physically disrupt protein structure and receptor-mediated endocytosis.
 
 
-## PART J. Short Reflection
+## Short Reflection
 * **1. What did the UCSC Cell Browser show you that the UCSC Genome Browser could not?** 
   The UCSC Cell Browser revealed single-cell resolution expression patterns across distinct, heterogeneous cell populations within the liver tissue, whereas the Genome Browser provides bulk genomic coordinates, exon-intron structures, and population-level variant annotations without single-cell lineage context.
 * **2. Why can the same gene have different expression levels among different cell types?** 
